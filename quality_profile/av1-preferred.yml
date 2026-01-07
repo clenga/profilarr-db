@@ -1,0 +1,20 @@
+name: AV1 Preferred
+upgradeAllowed: true
+cutoff: Bluray-2160p
+minFormatScore: 0
+cutoffFormatScore: 10000
+
+items:
+  - name: Bluray-2160p
+  - name: WEBDL-2160p
+  - name: WEBRip-2160p
+  - name: Bluray-1080p
+  - name: WEBDL-1080p
+  - name: WEBRip-1080p
+  - name: Bluray-720p
+  - name: WEBDL-720p
+  - name: WEBRip-720p
+
+formatItems:
+  - name: AV1
+    score: 500
