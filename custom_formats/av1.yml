@@ -1,0 +1,9 @@
+name: AV1
+includeCustomFormatWhenRenaming: false
+specifications:
+  - name: AV1 Codec
+    implementation: ReleaseTitleSpecification
+    negate: false
+    required: true
+    fields:
+      value: '(?i)\bAV1\b'
